@@ -1,7 +1,7 @@
 
 // GameBoard code below
-var gameWidth = 800;
-var gameHeight = 600;
+var gameWidth = 1000;
+var gameHeight = 700;
 
 function distance(a, b) {
     var dx = a.x - b.x;
